@@ -1,10 +1,10 @@
 <?php
 
-namespace Jopmesman\TimeLogger;
+namespace Jopmesman\logtimer;
 
 /**
  * Class LogTimer
- * @package Jopmesman\TimeLogger
+ * @package Jopmesman\logtimer
  */
 class LogTimer
 {
