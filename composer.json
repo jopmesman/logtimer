@@ -1,0 +1,7 @@
+{
+    "name": "jopmesman/logtimer",
+    "description": "Simple time logger.",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {}
+}
