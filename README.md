@@ -23,9 +23,10 @@ print_r(LogTimer::times());
 
 This gives the following result:
 ```
-array:2 [
+Array 
+(
   "Any text" => 2.0019979476929
-]
+)
 ```
 
 Here is complete example:
