@@ -1,6 +1,6 @@
 <?php
 
-namespace Jopmesman\logtimer;
+namespace jopmesman\logtimer;
 
 /**
  * Class LogTimer
