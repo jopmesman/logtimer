@@ -1,7 +1,17 @@
 {
     "name": "jopmesman/logtimer",
     "description": "Simple time logger.",
-    "type": "project",
     "minimum-stability": "dev",
-    "require": {}
+    "authors": [
+        {
+            "name": "Jop Mesman",
+            "email": "jomesie@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"jopmesman\\logtimer\\": "src/"}
+    },
+    "require": {
+        "php": ">=5.4.0"
+    }
 }
